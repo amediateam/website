@@ -1,8 +1,8 @@
-# Bulkit Components kit 
+# Website Components kit 
 
 Components and demos Package
 
-## Demo file
+## File
 
 The index file is named `index.html` in the main demo
 
